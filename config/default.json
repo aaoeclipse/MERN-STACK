@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://aaoeclipse:spartan2012@cluster0-olxc9.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
