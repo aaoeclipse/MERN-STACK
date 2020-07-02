@@ -1,3 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://aaoeclipse:spartan2012@cluster0-olxc9.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://aaoeclipse:spartan2012@cluster0-olxc9.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "817cc29d5035ca258fb8",
+  "githubSecret": "9d5611a2296e0204b312019694bcb6d8eff64f5c"
 }
